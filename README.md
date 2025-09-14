@@ -3,11 +3,11 @@ App to submit for SIH 2025
 
 Team Members
 
-Madhav  - CodeFromKerala
+Madhav  - https://github.com/CodeFromKerala
 
-Aadil   - Aadilvn
+Aadil   - https://github.com/Aadilvn
 
-Eirene  - chaotic-coder-ene
+Eirene  - https://github.com/chaotic-coder-ene
 
 Nandika
 
